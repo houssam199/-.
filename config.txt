@@ -1,0 +1,6 @@
+token=NTAxNzQwODk5MzAzMjkyOTI5.DqdykQ.fwRoSEzzM3UOHGnaGoqlGlRI0Ho
+owner=464046823162511400
+prefix=A
+game=Tybe Ahelp
+stayinchannel=true
+songinstatus=false
